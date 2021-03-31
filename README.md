@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ## Hello, I'm Alice 🙋‍♀️
 - 👩‍🎓 A Junior Developer based in Melbourne, Victoria - fresh graduate from Monash University .
 - 💻 Currently learning Full Stack Development with HTML, CSS, Javascript, React and SQL.
-- 🥇 It's still a long way for me to master all the skills but I wouldn't give up.
+- 🥇 It's still a long way for me to master all the skills but I won't give up.
 - 🙌 In my free time, I like baking cookies 🍪 and playing badminton 🏸.
