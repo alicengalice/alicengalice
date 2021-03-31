@@ -1,7 +1,9 @@
-### Hi there 👋
+
 
 <!--
 **alicengalice/alicengalice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello, I'm Alice (she/her) 🙋‍♀️. 
+- 👩‍🎓 A Junior Developer based in Melbourne, Victoria - fresh graduate from Monash University .
+- 💻 Currently learning Full Stack Development with HTML, CSS, Javascript, React and SQL.
+- 🥇 It's still a long way for me to master all the skills but I wouldn't give up .
+- 🙌 In my free time, I like baking cookies 🍪 and playing badminton 🏸.
