@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello, I'm Alice 🙋‍♀️
-- 👩‍🎓 A Junior Developer based in Melbourne, Victoria - fresh graduate from Monash University .
-- 💻 Currently learning Full Stack Development with HTML, CSS, Javascript, React and SQL.
+- 👩‍🎓 A Software Engineer based in Sydney, NSW, AU - Master of Information Technology from Monash University.
+- 💻 Currently working with Java, MySQL, and AWS. 
+
+<!--
 - 🥇 It's still a long way for me to master all the skills but I won't give up.
 - 🙌 In my free time, I like baking cookies 🍪 and playing badminton 🏸.
+-->
